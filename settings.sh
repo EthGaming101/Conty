@@ -41,6 +41,7 @@ PACKAGES=(
 	# development
 	base-devel git meson mingw-w64-gcc cmake
 	# gaming
+	sdl12-compat
 	lutris python-protobuf steam steamtinkerlaunch
 	minigalaxy gamehub legendary prismlauncher bottles playonlinux obs-studio
 	retroarch retroarch-assets-ozone libretro-beetle-psx-hw
