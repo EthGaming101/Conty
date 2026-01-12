@@ -55,7 +55,7 @@ PACKAGES=(
  	ffmpegthumbnailer tmux
 
 	# added
-	fluidsynth glu libjpeg-turbo openssl-1.1 timidity++
+	fluidsynth glu libjpeg-turbo openssl-1.1 timidity++ bzip2 zlib qt6-base qt6-multimedia qt6-tools
 )
 
 # If you want to install AUR packages, specify them in this variable
