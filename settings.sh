@@ -41,7 +41,6 @@ PACKAGES=(
 	# development
 	base-devel git meson mingw-w64-gcc cmake
 	# gaming
-	sdl12-compat
 	lutris python-protobuf steam steamtinkerlaunch
 	minigalaxy gamehub legendary prismlauncher bottles playonlinux obs-studio
 	retroarch retroarch-assets-ozone libretro-beetle-psx-hw
@@ -57,7 +56,7 @@ PACKAGES=(
 )
 
 # If you want to install AUR packages, specify them in this variable
-AUR_PACKAGES=(faugus-launcher-git gtk2 doomseeker)
+AUR_PACKAGES=(faugus-launcher-git gtk2 doomseeker zandronum)
 
 # ALHP is a repository containing packages from the official Arch Linux
 # repos recompiled with -O3, LTO and optimizations for modern CPUs for
