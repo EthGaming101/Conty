@@ -53,10 +53,13 @@ PACKAGES=(
 	htop qbittorrent speedcrunch gpicview file-roller openbox lxterminal
 	yt-dlp minizip nautilus genymotion jre17-openjdk gnome-themes-extra
  	ffmpegthumbnailer tmux
+
+	# added
+	fluidsynth glu libjpeg-turbo openssl-1.1 timidity++
 )
 
 # If you want to install AUR packages, specify them in this variable
-AUR_PACKAGES=(faugus-launcher-git gtk2 doomseeker zandronum)
+AUR_PACKAGES=(faugus-launcher-git gtk2 doomseeker)
 
 # ALHP is a repository containing packages from the official Arch Linux
 # repos recompiled with -O3, LTO and optimizations for modern CPUs for
